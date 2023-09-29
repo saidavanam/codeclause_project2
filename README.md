@@ -1,2 +1,2 @@
 # codeclause_project2
-calculator_in_python
+Implementing calculator using python
